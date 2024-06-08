@@ -2,9 +2,6 @@
 <playground version='6.0' target-platform='ios' display-mode='rendered'>
     <pages>
         <page name='Introdução'/>
-        <page name='Salários'/>
-        <page name='Cargos'/>
-        <page name='Colabores'/>
         <page name='Sistema'/>
     </pages>
 </playground>
